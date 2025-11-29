@@ -1,6 +1,5 @@
 # 240032 Practices 2.7 and 2.8
 
-### P2.7 - Thermal Equation with convection (small example)
 ### P2.8 - Thermal Equation with convection (mesh version)
 
 You can find the session's guide ---together with other extra material files---,
