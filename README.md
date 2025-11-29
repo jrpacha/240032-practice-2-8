@@ -1,4 +1,4 @@
-# 240032 Practices 2.7 and 2.8
+# 240032 Practices 2.8
 
 ### P2.8 - Thermal Equation with convection (mesh version)
 
