@@ -1,4 +1,4 @@
-# 240032 Practices 2.8
+# 240032 Practice 2.8
 
 ### P2.8 - Thermal Equation with convection (mesh version)
 
@@ -20,3 +20,4 @@ juan.ramon.pacha@upc.edu
 Many thanks,
 
 J.R.
+
